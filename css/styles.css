@@ -45,6 +45,10 @@ a {
 .header-kont-item {
 }
 .header-kont-link {
+  color: #434455;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 0.02em;
 }
 
 .hero {
@@ -65,11 +69,12 @@ a {
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
+  background-color: #4d5ae5;
 }
+
 .hero-btn:hover,
 .hero-btn:focus {
-  background-color: #4d5ae5;
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .visually-hidden {
   position: absolute;
@@ -106,7 +111,7 @@ a {
 }
 
 .team {
-  background-color: #2e2f42;
+  background-color: #f4f4fd;
 }
 .team-title {
   color: #2e2f42;
@@ -189,7 +194,6 @@ a {
 .footer-text {
   color: #f4f4fd;
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
