@@ -41,7 +41,7 @@ a {
 
 .header-menu-link:hover,
 .header-menu-link:focus {
-  ccolor: #404bbf;
+  color: #404bbf;
 }
 .header-kont {
   font-style: normal;
@@ -51,10 +51,18 @@ a {
 }
 .header-kont-item {
 }
+
 .header-kont-link {
   color: #434455;
   font-size: 16px;
   font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.header-kont-link:hover,
+.header-kont-link:hover {
+  color: #404bbf;
+  color: #404bbf;
 }
 
 .hero {
@@ -121,8 +129,7 @@ a {
 }
 .team-item {
 }
-.team-img {
-}
+
 .team-subtitle {
   color: #2e2f42;
   text-align: center;
@@ -154,8 +161,7 @@ a {
 }
 .portfolio-item {
 }
-.portfolio-img {
-}
+
 .portfolio-subtitle {
   color: #2e2f42;
   font-size: 20px;
