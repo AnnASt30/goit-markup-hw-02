@@ -60,7 +60,7 @@ a {
   letter-spacing: 0.02em;
 }
 .header-kont-link:hover,
-.header-kont-link:hover {
+.header-kont-link:focus {
   color: #404bbf;
   color: #404bbf;
 }
@@ -160,13 +160,14 @@ a {
 .portfolio-list {
 }
 .portfolio-item {
+  background-color: #ffffff;
 }
 
 .portfolio-subtitle {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
-  line-height: 1, 2;
+  line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .portfolio-item-text {
