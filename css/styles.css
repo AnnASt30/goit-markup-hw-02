@@ -147,6 +147,7 @@ a {
   letter-spacing: 0.02em;
 }
 .portfolio {
+  background-color: #ffffff;
 }
 .portfolio-title {
   color: #2e2f42;
@@ -156,10 +157,13 @@ a {
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  background-color: #ffffff;
 }
 .portfolio-list {
+  background-color: #ffffff;
 }
 .portfolio-item {
+  background-color: #ffffff;
 }
 
 .portfolio-subtitle {
